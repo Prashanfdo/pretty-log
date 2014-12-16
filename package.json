@@ -1,5 +1,5 @@
 {
-  "name": "pretty-log",
+  "name": "golr",
   "version": "0.1.0",
   "description": "Simple log messages for NodeJs",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raphaelivan/pretty-log.git"
+    "url": "https://github.com/prashanfdo/pretty-log.git"
   },
   "keywords": [
     "log",
@@ -17,14 +17,14 @@
     "log",
     "logger"
   ],
-  "author": "Raphael Ivan <contato@raphaelivan.com.br>",
+  "author": "Prashan Fernando <prashanfdo@gmail.com>",
   "license": "MIT",
 
   "bugs": {
-    "url": "https://github.com/raphaelivan/pretty-log/issues"
+    "url": "https://github.com/prashanfdo/pretty-log/issues"
   },
 
-  "homepage": "https://github.com/raphaelivan/pretty-log",
+  "homepage": "https://github.com/prashanfdo/pretty-log",
 
   "dependencies": {
     "colors": "^0.6.2"
